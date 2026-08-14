@@ -16,16 +16,16 @@
     "_generates": "assets/header.svg",
     "_comment": "null = fetch from GitHub API",
     "name": "Azriel",
-    "bio": "X PPLG 3 · Student & Web Explorer"
+    "bio": "X PPLG 3"
   },
   "typing": {
     "_generates": "assets/typing.svg",
     "_comment": "null or [] = fetch from GitHub profile (bio, company, location, blog)",
     "lines": [
       "Azriel · X PPLG 3",
-      "Learning Web Development",
       "HTML · CSS · JavaScript",
-      "UI/UX Design & Video Editing"
+      "UI/UX Design & Video Editing",
+      "Web Developer Student"
     ]
   },
   "labels": [
@@ -43,7 +43,6 @@
     { "id": "html5", "text": "HTML5", "color": "#cc4420" },
     { "id": "css3", "text": "CSS3", "color": "#1262a0" },
     { "id": "javascript", "text": "JAVASCRIPT", "color": "#e0c910" },
-    { "id": "nodejs", "text": "NODE.JS", "color": "#2b802b" },
     { "id": "git", "text": "GIT", "color": "#d94229" },
     { "id": "github", "text": "GITHUB", "color": "#1c2025" },
     { "id": "vscode", "text": "VS CODE", "color": "#0069b3" }
