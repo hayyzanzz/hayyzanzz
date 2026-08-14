@@ -20,30 +20,30 @@
     21.25%, 100%  { width: 0; }
   }
 
-  /* Line 2: Learning Web Development — 24 chars — 316.8px */
+  /* Line 2: HTML · CSS · JavaScript — 23 chars — 303.6px */
   @keyframes cl2 {
     0%, 24.9%  { width: 0; }
-    25%        { width: 0;       animation-timing-function: steps(24, end); }
-    33.75%      { width: 316.8px; animation-timing-function: step-end; }
-    41.25%     { width: 316.8px; animation-timing-function: steps(24, end); }
+    25%        { width: 0;       animation-timing-function: steps(23, end); }
+    33.75%      { width: 303.6px; animation-timing-function: step-end; }
+    41.25%     { width: 303.6px; animation-timing-function: steps(23, end); }
     46.25%, 100%  { width: 0; }
   }
 
-  /* Line 3: HTML · CSS · JavaScript — 23 chars — 303.6px */
+  /* Line 3: UI/UX Design &amp; Video Editing — 28 chars — 369.6px */
   @keyframes cl3 {
     0%, 49.9%  { width: 0; }
-    50%        { width: 0;       animation-timing-function: steps(23, end); }
-    58.75%      { width: 303.6px; animation-timing-function: step-end; }
-    66.25%     { width: 303.6px; animation-timing-function: steps(23, end); }
+    50%        { width: 0;       animation-timing-function: steps(28, end); }
+    58.75%      { width: 369.6px; animation-timing-function: step-end; }
+    66.25%     { width: 369.6px; animation-timing-function: steps(28, end); }
     71.25%, 100%  { width: 0; }
   }
 
-  /* Line 4: UI/UX Design &amp; Video Editing — 28 chars — 369.6px */
+  /* Line 4: Web Developer Student — 21 chars — 277.2px */
   @keyframes cl4 {
     0%, 74.9%  { width: 0; }
-    75%        { width: 0;       animation-timing-function: steps(28, end); }
-    83.75%      { width: 369.6px; animation-timing-function: step-end; }
-    91.25%     { width: 369.6px; animation-timing-function: steps(28, end); }
+    75%        { width: 0;       animation-timing-function: steps(21, end); }
+    83.75%      { width: 277.2px; animation-timing-function: step-end; }
+    91.25%     { width: 277.2px; animation-timing-function: steps(21, end); }
     96.25%, 100%  { width: 0; }
   }
 
@@ -63,27 +63,27 @@
 
   @keyframes cw2 {
     0%, 24.9% { visibility: hidden; transform: translateX(2px); }
-    25%       { transform: translateX(2px);             visibility: visible; animation-timing-function: steps(24, end); }
-    33.75%     { transform: translateX(318.8px); visibility: visible; animation-timing-function: step-end; }
-    41.25%    { transform: translateX(318.8px); visibility: visible; animation-timing-function: steps(24, end); }
+    25%       { transform: translateX(2px);             visibility: visible; animation-timing-function: steps(23, end); }
+    33.75%     { transform: translateX(305.6px); visibility: visible; animation-timing-function: step-end; }
+    41.25%    { transform: translateX(305.6px); visibility: visible; animation-timing-function: steps(23, end); }
     46.25%   { transform: translateX(2px);             visibility: visible; }
     49.9%, 100% { visibility: hidden; transform: translateX(2px); }
   }
 
   @keyframes cw3 {
     0%, 49.9% { visibility: hidden; transform: translateX(2px); }
-    50%       { transform: translateX(2px);             visibility: visible; animation-timing-function: steps(23, end); }
-    58.75%     { transform: translateX(305.6px); visibility: visible; animation-timing-function: step-end; }
-    66.25%    { transform: translateX(305.6px); visibility: visible; animation-timing-function: steps(23, end); }
+    50%       { transform: translateX(2px);             visibility: visible; animation-timing-function: steps(28, end); }
+    58.75%     { transform: translateX(371.6px); visibility: visible; animation-timing-function: step-end; }
+    66.25%    { transform: translateX(371.6px); visibility: visible; animation-timing-function: steps(28, end); }
     71.25%   { transform: translateX(2px);             visibility: visible; }
     74.9%, 100% { visibility: hidden; transform: translateX(2px); }
   }
 
   @keyframes cw4 {
     0%, 74.9% { visibility: hidden; transform: translateX(2px); }
-    75%       { transform: translateX(2px);             visibility: visible; animation-timing-function: steps(28, end); }
-    83.75%     { transform: translateX(371.6px); visibility: visible; animation-timing-function: step-end; }
-    91.25%    { transform: translateX(371.6px); visibility: visible; animation-timing-function: steps(28, end); }
+    75%       { transform: translateX(2px);             visibility: visible; animation-timing-function: steps(21, end); }
+    83.75%     { transform: translateX(279.2px); visibility: visible; animation-timing-function: step-end; }
+    91.25%    { transform: translateX(279.2px); visibility: visible; animation-timing-function: steps(21, end); }
     96.25%   { transform: translateX(2px);             visibility: visible; }
     100% { visibility: visible; transform: translateX(2px); }
   }
@@ -98,21 +98,21 @@
 
 <defs>
   <clipPath id="cp1"><rect class="cr1" x="287.8" y="0" width="0" height="54"/></clipPath>
-  <clipPath id="cp2"><rect class="cr2" x="241.6" y="0" width="0" height="54"/></clipPath>
-  <clipPath id="cp3"><rect class="cr3" x="248.2" y="0" width="0" height="54"/></clipPath>
-  <clipPath id="cp4"><rect class="cr4" x="215.2" y="0" width="0" height="54"/></clipPath>
+  <clipPath id="cp2"><rect class="cr2" x="248.2" y="0" width="0" height="54"/></clipPath>
+  <clipPath id="cp3"><rect class="cr3" x="215.2" y="0" width="0" height="54"/></clipPath>
+  <clipPath id="cp4"><rect class="cr4" x="261.4" y="0" width="0" height="54"/></clipPath>
 </defs>
 
 <!-- Text lines -->
 <text class="t" clip-path="url(#cp1)" x="287.8" y="34" textLength="224.4" lengthAdjust="spacingAndGlyphs">Azriel · X PPLG 3</text>
-<text class="t" clip-path="url(#cp2)" x="241.6" y="34" textLength="316.8" lengthAdjust="spacingAndGlyphs">Learning Web Development</text>
-<text class="t" clip-path="url(#cp3)" x="248.2" y="34" textLength="303.6" lengthAdjust="spacingAndGlyphs">HTML · CSS · JavaScript</text>
-<text class="t" clip-path="url(#cp4)" x="215.2" y="34" textLength="369.6" lengthAdjust="spacingAndGlyphs">UI/UX Design &amp; Video Editing</text>
+<text class="t" clip-path="url(#cp2)" x="248.2" y="34" textLength="303.6" lengthAdjust="spacingAndGlyphs">HTML · CSS · JavaScript</text>
+<text class="t" clip-path="url(#cp3)" x="215.2" y="34" textLength="369.6" lengthAdjust="spacingAndGlyphs">UI/UX Design &amp; Video Editing</text>
+<text class="t" clip-path="url(#cp4)" x="261.4" y="34" textLength="277.2" lengthAdjust="spacingAndGlyphs">Web Developer Student</text>
 
 <!-- Cursors -->
 <g class="cw1"><rect class="cur" x="287.8" y="16" width="3.5" height="22"/></g>
-<g class="cw2"><rect class="cur" x="241.6" y="16" width="3.5" height="22"/></g>
-<g class="cw3"><rect class="cur" x="248.2" y="16" width="3.5" height="22"/></g>
-<g class="cw4"><rect class="cur" x="215.2" y="16" width="3.5" height="22"/></g>
+<g class="cw2"><rect class="cur" x="248.2" y="16" width="3.5" height="22"/></g>
+<g class="cw3"><rect class="cur" x="215.2" y="16" width="3.5" height="22"/></g>
+<g class="cw4"><rect class="cur" x="261.4" y="16" width="3.5" height="22"/></g>
 
 </svg>
