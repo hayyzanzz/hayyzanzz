@@ -34,13 +34,13 @@
   <text x="333.3" y="93"  text-anchor="middle" class="val">0</text>
   <text x="333.3" y="118" text-anchor="middle" class="lbl">Issues</text>
   <line x1="400" y1="48" x2="400" y2="136" class="div"/>
-  <text x="466.7" y="93"  text-anchor="middle" class="val">0</text>
+  <text x="466.7" y="93"  text-anchor="middle" class="val">1</text>
   <text x="466.7" y="118" text-anchor="middle" class="lbl">Stars</text>
   <line x1="533" y1="48" x2="533" y2="136" class="div"/>
   <text x="600.0" y="93"  text-anchor="middle" class="val">3</text>
   <text x="600.0" y="118" text-anchor="middle" class="lbl">Repos</text>
   <line x1="667" y1="48" x2="667" y2="136" class="div"/>
-  <text x="733.3" y="93"  text-anchor="middle" class="val">0</text>
+  <text x="733.3" y="93"  text-anchor="middle" class="val">1</text>
   <text x="733.3" y="118" text-anchor="middle" class="lbl">Followers</text>
 
 </svg>
