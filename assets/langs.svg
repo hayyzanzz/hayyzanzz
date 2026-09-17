@@ -43,8 +43,8 @@
 
   <!-- Colored segments -->
   <g clip-path="url(#bar-shape)">
-      <rect x="20" y="42" width="659" height="22" fill="#f1e05a"/>
-      <rect x="679" y="42" width="101" height="22" fill="#e34c26"/>
+      <rect x="20" y="42" width="681" height="22" fill="#f1e05a"/>
+      <rect x="701" y="42" width="79" height="22" fill="#e34c26"/>
   </g>
 
   <!-- Shimmer overlay on bar: diagonal rect translates across, clipped to bar -->
@@ -65,11 +65,11 @@
     <animate attributeName="r" values="5;6.5;5" dur="2.5s" begin="0.0s" repeatCount="indefinite"
              calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
   </circle>
-  <text x="36" y="92.5" class="leg">JavaScript 86.7%</text>
+  <text x="36" y="92.5" class="leg">JavaScript 89.5%</text>
   <circle cx="405" cy="88" r="5" fill="#e34c26">
     <animate attributeName="r" values="5;6.5;5" dur="2.5s" begin="0.4s" repeatCount="indefinite"
              calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
   </circle>
-  <text x="416" y="92.5" class="leg">HTML 13.3%</text>
+  <text x="416" y="92.5" class="leg">HTML 10.5%</text>
 
 </svg>
